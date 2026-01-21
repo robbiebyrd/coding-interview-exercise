@@ -1,4 +1,4 @@
-**# Constituents Service
+# Constituents Service
 
 An application that retrieves and stores contact information of constituents.
 
